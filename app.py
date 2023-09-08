@@ -48,7 +48,7 @@ with st.expander("What is this app for?"):
 #-------------------------------------------------------
 
 if (SP500_futures):
-    st.header('‍S&P500 index futures')
+    st.header('‍S&P500 index futures:')
 
             #Calling the API : 
 
