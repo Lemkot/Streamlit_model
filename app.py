@@ -38,7 +38,7 @@ html_temp = """
     """
 st.markdown(html_temp, unsafe_allow_html=True)
 
-with st.expander("## What is this app for?"):
+with st.expander("What is this app for?"):
         st.write("This app is used to forcast the financial markers") 
 
 
